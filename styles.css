@@ -1,0 +1,673 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style: none; 
+}
+.head li {
+    float: left;
+    width: 25%;
+    height: 50px;
+    padding-top: 20px;
+    background-color: #c77dff;
+}
+.head {
+    text-align: center;
+}
+.head li:hover {
+    background-color: #deaaff;
+}
+.head ul li a{
+    text-decoration: none;
+    color: #10002b;
+    font-size: 18px;
+}
+.photo img {
+    width: 642px;
+    margin: -1px;
+}
+.photo .asepa {
+    width: 568px;
+}
+.photo .twice {
+    width: 611px;
+}
+
+.body img {
+    width: 300px;
+}
+.head .photo2 { 
+    color: #ffff;
+}
+
+.blackpink {
+    margin-bottom: 172px;
+}
+.blackpink .image1 {
+    float: left;
+}
+
+.twice .image2{
+    float: left;
+}
+.twice {
+    margin-bottom: 167px;
+}
+
+.itzy .image3 {
+    float: left;
+}
+.itzy {
+    margin-bottom: 134px;
+}
+
+.asepa .image4 {
+    float: left;
+}
+.asepa {
+    margin-bottom: 182px;
+}
+
+
+.blackpink2 img{
+    width: 100%;
+}
+.blackpink2 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.name {
+    text-align: center;
+    width: 1000px;
+    margin-left: 100px;
+}
+.name img {
+    width: 200px;
+    /* float: left; */
+}
+.name .jisoo2 {
+    margin-bottom: 150px;
+}
+.name .jennie2 {
+    margin-bottom: 100px;
+}
+.name .rose2 {
+    margin-bottom: 150px;
+}
+.name .lisa2 {
+    margin-bottom: 150px;
+}
+.jisoo2 .jisoo3 {
+    float: left;
+}
+.jennie2 .jennie3 {
+    float: right;
+}
+.rose2 .rose3 {
+    float: left;
+}
+.lisa2 .lisa3 {
+    float: right;
+}
+.color {
+    background-color: #000;
+    color: #f4a7bb ;
+}
+.name span {
+    font-size: 20px;
+}
+.blackpink2 span{
+    font-size: 20px;
+}
+
+.name ul li {
+    text-align: left;
+    margin-left: 250px;
+}
+.crd {
+    background-color: #eec6ca;
+    height: 100px;
+    text-align: center;
+}
+.crd a{
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+}
+.name a {
+    text-decoration: none;
+    color: #eec6ca;
+}
+.name a:hover {
+    background-color: #fffffc;
+}
+.crd span:hover {
+    background-color: #fffffc;
+}
+
+
+.color2 h1 {
+    color: #fc3370 ; 
+    position: relative;
+}
+.crd1 a {
+    text-decoration: none;
+    color: #fc3370;
+}
+.crd1 {
+    background-color: bisque;
+    height: 50px;
+    text-align: center;
+    padding: 0px;
+}
+.crd1 span:hover {
+    background-color: burlywood;
+}
+.crd1 a:hover {
+    background-color: #eec6ca;
+}
+.color2 p {
+    color: #fc3370 ; 
+    position: relative;
+}
+.color2 span {
+    font-size: 20px;
+}
+.color2 .twice2 h2 {
+    position: relative;
+}
+.color2 {
+    position: relative;
+    color: #fffffc;
+}
+.color2 .pink {
+    position: absolute;
+    margin-left: -170px;
+    margin-top: -5px;
+    width: 1437px;
+    height: 2545px;
+}
+.back {
+    text-decoration: none;
+    color: #fc3370;
+    background-color: #FBCEB1;
+    margin-right: 100px;
+}
+.twice3 ul li {
+    position: relative;
+    margin-left: 300px;
+    text-align: left;
+}
+.twice2 .top {
+    width: 1266px;
+}
+.name2 {
+    text-align: center;
+}
+.twice3 img {
+    position: relative;
+    width: 130px;
+}
+.twice3 p{
+    color: #fffffc;
+}
+.twice3 {
+    margin-left: 160px;
+    width: 910px;
+    text-align: center;
+}
+.nayeon .nayeon2 {
+    float: left;
+}
+.jeongyeon .jeongyeon2 {
+    float: right;
+}
+.momo .momo2 {
+    float: left;
+}
+.sana .sana2 {
+    float: right;
+}
+.jihyo .jihyo2 {
+    float: left;
+}
+.mina .mina2 {
+    float: right;
+}
+.dahyun .dahyun2 {
+    float: left;
+}
+.chaeyoung .chaeyoung2 {
+    float: right;
+}
+.tzuyu .tzuyu2 {
+    float: left;
+}
+.nayeon {
+    margin-top: 100px;
+    margin-bottom: 120px;
+}
+.jeongyeon {
+    margin-bottom: 120px;
+}
+.momo {
+    margin-bottom: 100px;
+}
+.sana {
+    margin-bottom: 120px;
+}
+.jihyo {
+    margin-bottom: 120px;
+}
+.mina {
+    margin-bottom: 120px;
+}
+.dahyun {
+    margin-bottom: 120px;
+}
+.chaeyoung {
+    margin-bottom: 120px;
+}
+.tzuyu {
+    margin-bottom: 120px;
+}
+
+
+.color3 {
+    background-color:  #000;
+}
+.name2 a {
+    text-decoration: none;
+    color: #fffffc;
+}.name2 a:hover {
+    background-color: #ded6d1;
+    color: #000;
+}
+.crd2 {
+    background-color: #fffffc;
+    height: 50px;
+    text-align: center;
+}
+.crd2 span:hover{
+    background-color: #ded6d1;
+}
+.crd2 a {
+    color: black;
+    text-decoration: none;
+}
+.itzy2 .itzy3 {
+    width: 1265px;
+}
+.itzy2 .logo {
+    width: 150px;
+    margin-left: 500px;
+}
+.color3 {
+    color: #fffffc;
+}
+.color3 .itzy2 {
+    margin-bottom: 100px;
+}
+.color3 span {
+    font-size: 20px;
+}
+.name2 {
+    text-align: center;
+    margin-left: 200px;
+    width: 800px;
+}
+.name2 img {
+    width: 150px;
+}
+.name2 ul li {
+    text-align: left;
+    margin-left: 200px;
+}
+.yeji .yeji2 {
+    float: left;
+}
+.lia .lia2 {
+    float: right;
+}
+.ryujin .ryujin2 {
+    float: left;
+    width: 200px;
+}
+.chaeryeong .chaeryeong2 {
+    float: right;
+}
+.yuna .yuna2 {
+    float: left;
+    width: 200px;
+}
+.yeji {
+    margin-bottom: 200px;
+}
+.lia {
+    margin-bottom: 200px;
+}
+.ryujin {
+    margin-bottom: 200px;
+}
+.chaeryeong {
+    margin-bottom: 200px;
+}
+.yuna {
+    margin-bottom: 200px;
+}
+
+
+.color4 .aespa3{
+    width: 100%;
+}
+.color4 .logo3 {
+    width: 300px;
+}
+.color4 .aespa2 {
+    margin-bottom: 100px;
+}
+.color4 {
+    background-color: #000;
+    text-align: center;
+    /* color: #eae4e9; */
+    color: #dee2e6;
+}
+.name4 img {
+    width: 200px;
+}
+.name4 {
+    width: 700px;
+    text-align: center;
+    margin-left: 250px;
+}
+.karina .karina2 {
+    float: left;
+}
+.giselle .giselle2 {
+    float: right;
+}
+.winter .winter2 {
+    float: left;
+}
+.ningning .ningning2 {
+    float: right;
+}
+.karina {
+    margin-bottom: 250px;
+}
+.giselle {
+    margin-bottom: 250px;
+}
+.winter {
+    margin-bottom: 250px;
+}
+.ningning {
+    margin-bottom: 250px;
+}
+.color4 a {
+    text-decoration: none;
+    color: #dee2e6;
+}
+.color4 a:hover {
+    background-color: #dee2e6;
+    color: #000;
+}
+.color4 span {
+    font-size: 20px;
+}
+.crd3 a {
+    text-decoration: none;
+    color: #000;
+}
+.crd3 {
+    background-color: #dee2e6;
+    height: 50px;
+}
+.crd3 span:hover {
+    background-color: #ffe5d9;
+}
+
+.video {
+    position: relative;
+}
+.video .blackpink5 {
+    background-color: #000;
+    height: 723px;
+}
+.video img {
+    height: 150px;
+}
+.blackpink5{
+    color: #f4a7bb;
+}
+
+.video .blackpink5 a {
+    text-decoration: none;
+    color: #f4a7bb;
+}
+.blackpink5 a:hover {
+    text-transform: capitalize;
+    background-color: #f4a7bb;
+    color: #000;
+}
+.blackpink5 img:hover {
+    height: 145px;
+}
+.channel {
+    font-size: 40px;
+}
+.boom {
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.whistle {
+    margin-left: 317px;
+    margin-top: -175px;
+}
+.fire {
+    margin-left: 563px;
+    margin-top: -173px;
+}
+.stay {
+    margin-left: 732px;
+    margin-top: -174px;
+}
+.last {
+    margin-left: 899px;
+    margin-top: -177px;
+}
+.duu {
+    margin-left: 1068px;
+    margin-top: -176px;
+}
+.solo {
+    margin-left: 10px;
+    margin-top: 198px;
+}
+.kill {
+    margin-left: 10px;
+    margin-top: -359px;
+}
+.how {
+    margin-left: 254px;
+    margin-top: -176px;
+}
+.love {
+    margin-left: 500px;
+    margin-top: -177px;
+}
+.ice {
+    margin-left: 670px;
+    margin-top: -174px;
+}
+.ground {
+    margin-left: 910px;
+    margin-top: -175px;
+}
+.gone {
+    margin-left: 1071px;
+    margin-top: -182px;
+}
+.lalisa {
+    margin-left: 135px;
+    margin-top: 0px;
+}
+.money {
+    margin-left: 348px;
+    margin-top: -184px;
+}
+.pretty {
+    margin-left: 518px;
+    margin-top: -181px;
+}
+
+
+.video .twice5 {
+    background-color: #FBCEB1;
+    color: #fc3370;
+    height: 650px;
+}
+.twice5 a {
+    text-decoration: none;
+    color: #fc3370;
+    font-size: 40px;
+    margin-left: 150px;
+}
+.twice5 a:hover {
+    background-color: #ffe5d9;
+    color: #c9184a;
+    text-transform: capitalize;
+}
+.merry {
+    margin-left: 10px;
+    padding-top: 50px;
+}
+.what {
+    margin-left: 257px;
+    margin-top: -157px;
+}
+.dance {
+    margin-left: 506px;
+    margin-top: -157px;
+}
+.yes {
+    margin-left: 753px;
+    margin-top: -163px;
+}
+.best {
+    margin-left: 1000px;
+    margin-top: -192px;
+}
+.fancy {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.special {
+    margin-left: 260px;
+    margin-top: -163px;
+}
+.more {
+    margin-left: 506px;
+    margin-top: -164px;
+}
+.stop {
+    margin-left: 753px;
+    margin-top: -165px;
+}
+.kura {
+    margin-left: 1000px;
+    margin-top: -166px;
+}
+.alchol {
+    margin-left: 10px;
+    margin-top: 8px;
+}
+.feel {
+    margin-left: 257px;
+    margin-top: -163px;
+}
+.scientist {
+    margin-left: 506px;
+    margin-top: -163px;
+}
+
+
+.video .itzy5 {
+    background-color: #fffffc;
+    color: #000;
+    height: 450px;
+}
+.itzy5 a {
+    text-decoration: none;
+    color: #000;
+    font-size: 40px;
+}
+.itzy5 a:hover {
+    color: #fc3370;
+    background-color: #f8edeb;
+    text-transform: capitalize;
+}
+.dalla {
+    margin-left: 10px;
+    margin-top: 22px;
+}
+.icy {
+    margin-left: 256px;
+    margin-top: -164px;
+}
+.wanna {
+    margin-left: 502px;
+    margin-top: -164px;
+}
+.shy {
+    margin-left: 751px;
+    margin-top: -163px;
+}
+.morning {
+    margin-left: 1000px;
+    margin-top: -164px;
+}
+.loco {
+    margin-left: 10px;
+    margin-top: 7px;
+}
+.swipe {
+    margin-left: 256px;
+    margin-top: -163px;
+}
+
+
+.video .aespa5 {
+    background-color: #dee2e6;
+    color: #000;
+}
+.aespa5 a {
+    text-decoration: none;
+    font-size: 40px;
+    color: #000;
+}
+.aespa5 a:hover {
+    background-color: #adb5bd;
+}
+.black {
+    margin-top: -4px;
+    margin-left: 252px;
+}
+.fore {
+    margin-top: -164px;
+}
+.next {
+    margin-left: 502px;
+    margin-top: -164px;
+}
+.savage {
+    margin-left: 750px;
+    margin-top: -163px;
+}
+
+.photo1 img {
+    /* height: 423px; */
+    width: 49%;
+}
