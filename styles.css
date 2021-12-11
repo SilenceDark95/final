@@ -24,15 +24,11 @@ ul {
     font-size: 18px;
 }
 .photo img {
-    width: 642px;
-    margin: -1px;
+    width: 100%;
+    margin: -2px;
+    float: left;
 }
-.photo .asepa {
-    width: 568px;
-}
-.photo .twice {
-    width: 611px;
-}
+
 
 .body img {
     width: 300px;
@@ -84,8 +80,7 @@ ul {
     margin-left: 100px;
 }
 .name img {
-    width: 200px;
-    /* float: left; */
+    width: 20%;
 }
 .name .jisoo2 {
     margin-bottom: 150px;
@@ -186,8 +181,8 @@ ul {
     position: absolute;
     margin-left: -170px;
     margin-top: -5px;
-    width: 1437px;
-    height: 2545px;
+    width: 1438px;
+    height: 2556px;
 }
 .back {
     text-decoration: none;
@@ -201,7 +196,7 @@ ul {
     text-align: left;
 }
 .twice2 .top {
-    width: 1266px;
+    width: 1265px;
 }
 .name2 {
     text-align: center;
@@ -298,7 +293,7 @@ ul {
     text-decoration: none;
 }
 .itzy2 .itzy3 {
-    width: 1265px;
+    width: 100%;
 }
 .itzy2 .logo {
     width: 150px;
@@ -319,7 +314,7 @@ ul {
     width: 800px;
 }
 .name2 img {
-    width: 150px;
+    width: 20%;
 }
 .name2 ul li {
     text-align: left;
@@ -375,7 +370,7 @@ ul {
     color: #dee2e6;
 }
 .name4 img {
-    width: 200px;
+    width: 25%;
 }
 .name4 {
     width: 700px;
@@ -434,18 +429,23 @@ ul {
 }
 .video .blackpink5 {
     background-color: #000;
-    height: 723px;
+    height: 850px;
 }
 .video img {
     height: 150px;
 }
+.video .blackpink5 .channel {
+    border-radius: 40px;
+    height: 70px;
+    border: none;
+}
 .blackpink5{
     color: #f4a7bb;
 }
-
 .video .blackpink5 a {
     text-decoration: none;
     color: #f4a7bb;
+    font-size: 40px;
 }
 .blackpink5 a:hover {
     text-transform: capitalize;
@@ -453,151 +453,156 @@ ul {
     color: #000;
 }
 .blackpink5 img:hover {
-    height: 145px;
+    height: 135px;
+    border: 5px solid #f4a7bb;
 }
 .channel {
     font-size: 40px;
 }
+.blackpink5 a img {
+    float: left;
+}
 .boom {
-    margin-left: 10px;
-    margin-top: 20px;
+    margin-left: 50px;
+    margin-top: 31px;
 }
 .whistle {
-    margin-left: 317px;
-    margin-top: -175px;
+    margin-left: 248px;
+    margin-top: -20px;
 }
 .fire {
-    margin-left: 563px;
-    margin-top: -173px;
+    margin-left: 451px;
+    margin-top: -21px;
 }
 .stay {
-    margin-left: 732px;
-    margin-top: -174px;
+    margin-left: 650px;
+    margin-top: -21px;
 }
 .last {
-    margin-left: 899px;
-    margin-top: -177px;
+    margin-left: 845px;
+    margin-top: -21px;
 }
 .duu {
-    margin-left: 1068px;
-    margin-top: -176px;
-}
-.solo {
-    margin-left: 10px;
-    margin-top: 198px;
+    margin-left: 1035px;
+    margin-top: -21px;
 }
 .kill {
-    margin-left: 10px;
-    margin-top: -359px;
+    margin-left: 150px;
+    margin-top: 185px;
 }
 .how {
-    margin-left: 254px;
-    margin-top: -176px;
+    margin-left: 348px;
+    margin-top: -22px;
 }
 .love {
-    margin-left: 500px;
-    margin-top: -177px;
+    margin-left: 554px;
+    margin-top: -22px;
 }
 .ice {
-    margin-left: 670px;
-    margin-top: -174px;
-}
-.ground {
-    margin-left: 910px;
-    margin-top: -175px;
-}
-.gone {
-    margin-left: 1071px;
-    margin-top: -182px;
-}
-.lalisa {
-    margin-left: 135px;
-    margin-top: 0px;
-}
-.money {
-    margin-left: 348px;
-    margin-top: -184px;
+    margin-left: 746px;
+    margin-top: -22px;
 }
 .pretty {
-    margin-left: 518px;
-    margin-top: -181px;
+    margin-left: 948px;
+    margin-top: -22px;
 }
-
+.solo {
+    margin-left: 80px;
+    margin-top: 185px;
+}
+.ground {
+    margin-left: 378px;
+    margin-top: -21px;
+}
+.gone {
+    margin-left: 556px;
+    margin-top: -28px;
+}
+.lalisa {
+    margin-left: 841px;
+    margin-top: -28px;
+}
+.money {
+    margin-left: 1019px;
+    margin-top: -28px;
+}
 
 .video .twice5 {
     background-color: #FBCEB1;
     color: #fc3370;
-    height: 650px;
+    height: 900px;
 }
 .twice5 a {
     text-decoration: none;
     color: #fc3370;
     font-size: 40px;
-    margin-left: 150px;
 }
 .twice5 a:hover {
-    background-color: #ffe5d9;
-    color: #c9184a;
+    background-color: #ffe8d6;
     text-transform: capitalize;
 }
+.video .twice5 .channel {
+    border-radius: 40px;
+    height: 70px;
+    border: none;
+}
 .merry {
-    margin-left: 10px;
+    margin-left: 50px;
     padding-top: 50px;
 }
 .what {
-    margin-left: 257px;
+    margin-left: 355px;
     margin-top: -157px;
 }
 .dance {
-    margin-left: 506px;
+    margin-left: 670px;
     margin-top: -157px;
 }
 .yes {
-    margin-left: 753px;
+    margin-left: 979px;
     margin-top: -163px;
 }
 .best {
-    margin-left: 1000px;
-    margin-top: -192px;
+    margin-left: 183px;
+    margin-top: 20px;
 }
 .fancy {
-    margin-left: 10px;
-    margin-top: 5px;
+    margin-left: 503px;
+    margin-top: -165px;
 }
 .special {
-    margin-left: 260px;
+    margin-left: 829px;
     margin-top: -163px;
 }
 .more {
-    margin-left: 506px;
-    margin-top: -164px;
+    margin-left: 50px;
+    margin-top: 20px;
 }
 .stop {
-    margin-left: 753px;
+    margin-left: 355px;
     margin-top: -165px;
 }
 .kura {
-    margin-left: 1000px;
+    margin-left: 670px;
     margin-top: -166px;
 }
 .alchol {
-    margin-left: 10px;
-    margin-top: 8px;
+    margin-left: 979px;
+    margin-top: -161px;
 }
 .feel {
-    margin-left: 257px;
-    margin-top: -163px;
+    margin-left: 281px;
+    margin-top: 20px;
 }
 .scientist {
-    margin-left: 506px;
+    margin-left: 741px;
     margin-top: -163px;
 }
-
 
 .video .itzy5 {
     background-color: #fffffc;
     color: #000;
-    height: 450px;
+    height: 880px;
 }
 .itzy5 a {
     text-decoration: none;
@@ -605,43 +610,68 @@ ul {
     font-size: 40px;
 }
 .itzy5 a:hover {
-    color: #fc3370;
-    background-color: #f8edeb;
+    background-color: #e8e8e4;
     text-transform: capitalize;
 }
+.video .itzy5 .channel {
+    border-radius: 40px;
+    height: 70px;
+    border: none;
+}
 .dalla {
-    margin-left: 10px;
+    margin-left: 50px;
     margin-top: 22px;
 }
 .icy {
-    margin-left: 256px;
+    margin-left: 355px;
     margin-top: -164px;
 }
 .wanna {
-    margin-left: 502px;
+    margin-left: 670px;
     margin-top: -164px;
 }
 .shy {
-    margin-left: 751px;
+    margin-left: 979px;
     margin-top: -163px;
 }
 .morning {
-    margin-left: 1000px;
-    margin-top: -164px;
+    margin-left: 183px;
+    margin-top: 20px;
 }
 .loco {
-    margin-left: 10px;
-    margin-top: 7px;
+    margin-left: 503px;
+    margin-top: -163px;
 }
 .swipe {
-    margin-left: 256px;
+    margin-left: 829px;
     margin-top: -163px;
+}
+.dalla1 {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.icy1 {
+    margin-top: -163px;
+    margin-left: 355px;
+}
+.wanna1 {
+    margin-top: -163px;
+    margin-left: 670px;
+}
+.shy1 {
+    margin-top: -163px;
+    margin-left: 979px;
+}
+.loco1 {
+    margin-top: 20px;
+    margin-left: 503px;
 }
 
 
 .video .aespa5 {
     background-color: #dee2e6;
     color: #000;
+    height: 500px;
 }
 .aespa5 a {
     text-decoration: none;
@@ -651,20 +681,37 @@ ul {
 .aespa5 a:hover {
     background-color: #adb5bd;
 }
-.black {
-    margin-top: -4px;
-    margin-left: 252px;
+.video .aespa5 .channel {
+    border-radius: 40px;
+    height: 70px;
+    border: none;
 }
 .fore {
     margin-top: -164px;
 }
+.black {
+    margin-top: 20px;
+    margin-left: 332px;
+}
 .next {
-    margin-left: 502px;
-    margin-top: -164px;
+    margin-left: 647px;
+    margin-top: -383px;
 }
 .savage {
-    margin-left: 750px;
+    margin-left: 971px;
     margin-top: -163px;
+}
+.blackd {
+    margin-left: 157px;
+    margin-top: 20px;
+}
+.nextd {
+    margin-left: 491px;
+    margin-top: -161px;
+}
+.savaged {
+    margin-left: 816px;
+    margin-top: -161px;
 }
 
 .photo1 img {
